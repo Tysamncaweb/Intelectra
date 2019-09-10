@@ -1,0 +1,4 @@
+[submodule "Localizacion_intelectra"]
+	path = Localizacion_intelectra
+	url = git@github.com:Tysamncaweb/Localizacion_intelectra.git
+	branch = master
